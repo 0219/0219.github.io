@@ -1,0 +1,91 @@
+body{
+    background:#b28436 url(http://cache.adm.cnzz.net/material/37/f/3274892cf37b206b26bb865556af6.jpg) no-repeat center top;
+	margin:0 auto;
+}
+.main{
+    width:1000px;
+	margin:0 auto;
+}
+.textbox{
+    width:1000px;
+	height:200px;
+	margin:0 auto;
+	padding-top:49px;
+	padding-left:296px;
+}
+.btn_warp{
+    width:1000px;
+	margin:0 auto;
+}
+.serbtn{
+   padding-top:44px;
+   padding-left:608px;
+}
+.serbtn a{
+    float:left;
+	width:100px;
+	height:100px;
+}
+.serbtn a:link,.serbtn a:visited{
+    width:100px;
+	height:100px;
+    background:url(http://cache.adm.cnzz.net/material/5d/c/41fdeff077eecb6ef565ee8f6532e.png) no-repeat center center;
+}
+.serbtn a:hover{
+    width:100px;
+	height:100px;
+    background:url(http://cache.adm.cnzz.net/material/b4/e/e1ce424b41d8e045855d2c2676b43.png) no-repeat center center;
+}
+.downbtn{
+   padding-top:0px;
+   padding-left:816px;
+}
+.downbtn a{
+    float:left;
+	width:100px;
+	height:100px;
+}
+.downbtn a:link,.downbtn a:visited{
+    width:100px;
+	height:100px;
+    background:url(http://cache.adm.cnzz.net/material/12/5/cf14bbda248a44cd5f144266e7ab2.png) no-repeat center center;
+}
+.downbtn a:hover{
+    width:100px;
+	height:100px;
+    background:url(http://cache.adm.cnzz.net/material/ce/a/93e8c163821ca01ccc40482788860.png) no-repeat center center;
+}
+.netms{
+    width:850px;
+	height:90px;
+	margin:0 auto;
+	padding-left:270px;
+	padding-top:155px;
+}
+.route_nav{margin:20px auto;}
+.route_nav li{float:left;margin:0 9px;text-align: center; list-style-type:none;}
+.route_nav li.last{margin-right: 0;}
+.route_nav dd{float:left;}
+.net_01 a{display:block; width:112px; height:90px; padding-left:100px; font:15px "微软雅黑"; line-height:27px;color:#000;
+    background:url(http://cache.adm.cnzz.net/material/13/9/8b6034cc1d90c95e41185a3358558.png) no-repeat 20px 0px; text-decoration:none;
+}
+.net_02 a{display:block; width:112px; height:90px; padding-left:100px; font:15px "微软雅黑"; line-height:27px;color:#000;
+    background:url(http://cache.adm.cnzz.net/material/13/9/8b6034cc1d90c95e41185a3358558.png) no-repeat -180px 0px; text-decoration:none;
+}
+.net_03 a{display:block; width:112px; height:90px; padding-left:100px; font:15px "微软雅黑"; line-height:27px;color:#000;
+    background:url(http://cache.adm.cnzz.net/material/13/9/8b6034cc1d90c95e41185a3358558.png) no-repeat -380px 0px; text-decoration:none;
+}
+.net_01 a:hover{display:block; width:112px; height:90px; padding-left:100px; font:15px "微软雅黑"; line-height:27px;color:#000;
+    background:url(http://cache.adm.cnzz.net/material/11/d/c50cd8e92d3ebfbcbf2918abd65b7.png) no-repeat 21px -2px;
+}
+.net_02 a:hover{display:block; width:112px; height:90px; padding-left:100px; font:15px "微软雅黑"; line-height:27px;color:#000;
+    background:url(http://cache.adm.cnzz.net/material/11/d/c50cd8e92d3ebfbcbf2918abd65b7.png) no-repeat -179px -2px;
+}
+.net_03 a:hover{display:block; width:112px; height:90px; padding-left:100px; font:15px "微软雅黑"; line-height:27px;color:#000;
+    background:url(http://cache.adm.cnzz.net/material/11/d/c50cd8e92d3ebfbcbf2918abd65b7.png) no-repeat -379px -2px;
+}
+.route_nav li span{ float:left;width:42px;color:#b05522; font-size:15px; margin-left:5px; display:block; height:30px; line-height:30px;}
+.route_nav li span b{color:#b05522;}
+.route_nav li a:link,.no1 .route_nav ul li a:visited{}
+/*.route_nav li a:hover{background: #3c7f84 url(../images/title.png) no-repeat;border-color:#84a3a5;}*/
+.route_nav li a:hover{color:#ff5c00;}
