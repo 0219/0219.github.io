@@ -3,11 +3,11 @@ body{
 	margin:0 auto;
 }
 .main{
-    width:1000px;
+    width:100%px;
 	margin:0 auto;
 }
 .textbox{
-    width:1000px;
+    width:100%px;
 	height:200px;
 	margin:0 auto;
 	padding-top:49px;
